@@ -1,1 +1,28 @@
 
+body {
+    color: white;
+    background: rgb(14, 68, 106);
+    margin: 10px;
+    text-align: center;
+}
+
+header {
+    border-bottom: solid 2px rgb(14, 68, 106);
+    padding: 25px;
+    font-size: 48px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+    background: black;
+    padding-bottom: 75px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
